@@ -1,12 +1,12 @@
 # Coffee shop sales
 
-📌 Project Overview
+📌 Project Overview :
 This Excel dashboard provides a visual analysis of sales, customer footfall, and product performance for a fictional coffee shop chain. The goal was to transform raw transactional data into actionable business insights using Excel’s built-in tools.
 
-🎯 Objective
+🎯 Objective :
 To identify peak hours, top-performing categories and products, store-wise footfall, and customer behavior trends that can help management make data-driven decisions to improve revenue and service delivery.
 
-📊 Key Dashboard Features
+📊 Key Dashboard Features :
 ⏰ Hourly Order Trend
 
 📦 Top 5 Products by Sales
@@ -21,7 +21,7 @@ To identify peak hours, top-performing categories and products, store-wise footf
 
 📐 Order Size Breakdown (Small, Regular, Large)
 
-🛠 Tools & Excel Features Used
+🛠 Tools & Excel Features Used :
 PivotTables & PivotCharts
 
 Slicers (Month, Day)
@@ -32,7 +32,7 @@ Conditional Formatting
 
 Custom Dashboard Layout Design
 
-📈 Key Insights
+📈 Key Insights :
 Morning hours between 8 AM and 10 AM have the highest order volume
 
 Coffee and Bakery dominate total category sales
